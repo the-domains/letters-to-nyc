@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-24T22:49:56.592Z'
-dateModified: '2016-05-24T22:49:35.663Z'
+datePublished: '2016-05-24T22:50:45.135Z'
+dateModified: '2016-05-24T22:50:05.144Z'
 title: 'You found me.All my parts.You saw me.& found perfection in my faults.'
 author: []
+sourcePath: _posts/2016-05-24-you-found-meall-my-partsyou-saw-meand-found-perfection-in-m.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-24-you-found-meall-my-partsyou-saw-meand-found-perfection-in-m.md
 url: you-found-meall-my-partsyou-saw-meand-found-perfection-in-m/index.html
 _type: Article
 
