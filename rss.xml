@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Letters to NYC]]></title>
         <description><![CDATA[Letters to NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/letters-to-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 22:39:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 22:49:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/letters-to-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You found me.All my parts.You saw me.& found perfection in my faults.]]></title>
+            <description><![CDATA[<article><h1>You found me.All my parts.You saw me.& found perfection in my faults.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c1aa99-61ec-46ab-bec0-aa8e4dbe13bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/letters-to-nyc/you-found-meall-my-partsyou-saw-meand-found-perfection-in-m/index.html</link>
+            <guid isPermaLink="false">2645547c-cfbc-46e6-af41-d0707c28bd53</guid>
+            <pubDate>Tue, 24 May 2016 22:49:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[adventure.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e50c3958-0a70-44c2-b9b7-d193d398f8b8.jpg">]]></description>
-            <link>undefinedadventure/index.html</link>
+            <link>https://thegrid.ai/letters-to-nyc/adventure/index.html</link>
             <guid isPermaLink="false">add4d4d4-2986-4410-8387-ded81b779db6</guid>
             <pubDate>Tue, 24 May 2016 22:39:10 GMT</pubDate>
         </item>
