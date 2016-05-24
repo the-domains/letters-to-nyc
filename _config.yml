@@ -1,7 +1,7 @@
 name: Letters to NYC
 favicon: null
-layout_spectrum: 0.3898042549844831
-typography_spectrum: 0.328063334338367
+layout_spectrum: 0.94523
+typography_spectrum: 0.02786
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#fcf9d6'
+    - '#a598a1'
+    - '#3d3974'
+    - '#756ca5'
   brandStrength: 0.8254170333966613
   lightness: 0.21334860776551068
   saturation: 0.8985308764968067
