@@ -2,6 +2,7 @@ name: Letters to NYC
 favicon: null
 layout_spectrum: 0.94523
 typography_spectrum: 0.02786
+title: Letters to NYC
 cta:
   domain: null
   bucket: null
