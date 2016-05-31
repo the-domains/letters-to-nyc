@@ -4,8 +4,15 @@
         <description><![CDATA[Letters to NYC]]></description>
         <link>https://thegrid.ai/letters-to-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 01:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 03:25:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/letters-to-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="you changed it all . . . &#x2710;...... The possibilities are endless. As #Spring comes alive in the city, I feel a newness in the air. There are dreams unfolding, adventures awaiting and memories that will not be soon forgotten. The fear of the future gives way to hope of something beautiful and grand." src="https://scontent.xx.fbcdn.net/v/t15.0-10/p228x119/12719908_996356900444217_820898793_n.jpg?oh=a7e239daa3029f3ec402c115c9269e9d&oe=57CAC27C">]]></description>
+            <link>https://www.facebook.com/letterstonyc/videos/996356427110931/</link>
+            <guid isPermaLink="false">7e8848c2-d5ac-40c1-8458-8f312a53b82b</guid>
+            <pubDate>Tue, 31 May 2016 03:25:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/764ef709-8456-4ed4-a9cd-e4f5810014f3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/letters-to-nyc/you-found-meall-my-partsyou-saw-meand-found-perfection-in-m/index.html</link>
             <guid isPermaLink="false">2645547c-cfbc-46e6-af41-d0707c28bd53</guid>
             <pubDate>Tue, 24 May 2016 22:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[adventure.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e50c3958-0a70-44c2-b9b7-d193d398f8b8.jpg">]]></description>
-            <link>https://thegrid.ai/letters-to-nyc/adventure/index.html</link>
-            <guid isPermaLink="false">add4d4d4-2986-4410-8387-ded81b779db6</guid>
-            <pubDate>Tue, 24 May 2016 22:39:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
