@@ -4,15 +4,18 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'A New York love never dies...from winter to spring, thank you for making everyday an adventure.'
-datePublished: '2016-05-24T22:39:10.450Z'
-dateModified: '2016-05-24T22:38:56.035Z'
+description: >-
+  A New York love never dies...from winter to spring, thank you for making
+  everyday an adventure.
+datePublished: '2016-08-25T20:35:44.929Z'
+dateModified: '2016-08-25T20:35:44.515Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: _posts/2016-05-24-adventure.md
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: adventure/index.html
 _type: Article
 
