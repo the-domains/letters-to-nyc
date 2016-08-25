@@ -1,20 +1,4 @@
-name: Letters to NYC
-favicon: null
-layout_spectrum: 0.57112
 typography_spectrum: 0.20784
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.625
   saturation: 0.75
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.57112
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Letters to NYC
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: null
+description: your favorite love story...
 purpose: []
