@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: lettergrams
+    url: 'http://instagram.com/letterstonyc'
+    type: external
 favicon: null
 title: Letters to NYC
 description: your favorite love story.
