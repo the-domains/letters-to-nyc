@@ -28,6 +28,9 @@ navigation:
   - name: lettergrams
     url: 'http://instagram.com/letterstonyc'
     type: external
+  - name: about
+    id: add4d4d4-2986-4410-8387-ded81b779db6
+    type: content
 favicon: null
 title: Letters to NYC
 description: your favorite love story.
