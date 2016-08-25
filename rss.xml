@@ -4,8 +4,15 @@
         <description><![CDATA[Letters to NYC]]></description>
         <link>https://thegrid.ai/letters-to-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 20:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 20:43:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/letters-to-nyc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You saw me & found perfection in my faults.]]></title>
+            <description><![CDATA[<article><h1>You saw me & found perfection in my faults.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c1aa99-61ec-46ab-bec0-aa8e4dbe13bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/letters-to-nyc/you-found-meall-my-partsyou-saw-meand-found-perfection-in-m/index.html</link>
+            <guid isPermaLink="false">2645547c-cfbc-46e6-af41-d0707c28bd53</guid>
+            <pubDate>Thu, 25 Aug 2016 20:43:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[adventure.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e50c3958-0a70-44c2-b9b7-d193d398f8b8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/letters-to-nyc/a2893653-edac-49fc-a1cc-a923e6b207fc/index.html</link>
             <guid isPermaLink="false">a2893653-edac-49fc-a1cc-a923e6b207fc</guid>
             <pubDate>Tue, 24 May 2016 22:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You found me.All my parts.You saw me.& found perfection in my faults.]]></title>
-            <description><![CDATA[<article><h1>You found me.All my parts.You saw me.& found perfection in my faults.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c1aa99-61ec-46ab-bec0-aa8e4dbe13bf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/letters-to-nyc/you-found-meall-my-partsyou-saw-meand-found-perfection-in-m/index.html</link>
-            <guid isPermaLink="false">2645547c-cfbc-46e6-af41-d0707c28bd53</guid>
-            <pubDate>Tue, 24 May 2016 22:50:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
